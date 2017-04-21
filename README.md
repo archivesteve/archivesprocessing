@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+## Overview
+Archival collections are each unique and require varying levels of attention and description. This guide should serve as a basis for standard levels to strive for, but make sure to discuss the collections and your processing decisions with the University Archivist throughout the process, whenever a question arises, or even when something catches your attention as rather unique or interesting.
 
-You can use the [editor on GitHub](https://github.com/archivesteve/archivesprocessing/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Archival processing provides greater intellectual and physical access to collections. It promotes preservation and enables good collections management. Generally speaking, during processing, records are appraised, weeded, arranged, described, and provided with archival quality housing and basic preservation.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Examine Existing Descriptive Information and/or Access Tools
+You should gather all known descriptive information and/or access tools available for the collection being surveyed (check with the University Archivist). These may include: donor agreement forms, accession records, catalog records, preliminary inventories, finding aids, vendor's description, etc. Look for and take notes on the following types of information, often included in administrative documents (the Archivist will likely have much of this information):
 
-### Markdown
+* Where did the collection originate? Who created the documents?
+* Was the collection donated or purchased?
+* Who donated/sold the collection?
+* When was the collection acquired?
+* Why was the collection acquired?
+* What is included in the collection?
+* How much was included, size-wise? (linear footage, container count, size of digital files)
+* What types of material are included?
+* Is there biographical information on the creator available?
+* Are there any restrictions on access, usage, or copyright?
+* What are the primary subjects documented?
+* Where is the collection physically located?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Any or all of this information will aid in surveying. While some information, if identified, can be used to automatically populate certain survey fields (i.e. donor, collection or accession number(s), collection creator, etc.), other information will generally assist in the completion of a more thorough survey. For example, an existing description of what was donated or a preliminary collection inventory will help determine whether you have located the collection in its entirety or, conversely, that components of the collection are missing. Biographical and historical information identified on the collection creator will later help in writing the biographical/historical note.
 
-```markdown
-Syntax highlighted code block
+## Examine the Physical Collection
+Do not move anything yet! In this step processors simply review the physical collection, making sure that the entire collection is accounted for.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/archivesteve/archivesprocessing/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+* Count boxes and volumes (books)/items, comparing what you find to what the existing documentation suggests should exist. If there seems to be more or less associated with the physical collection than recorded in the existing documentation, processors should immediately consult with the Archivist.
+* Review the existing container labels. There may be useful information regarding container contents, accessions or donors, the type and quantity of materials in the containers, etc. This information may prove helpful in establishing the collection’s arrangement.
+* Open containers to review the contents, noting whether existing container labels are accurate. Compare and contrast what you find in the collection with what was identified in the processing plan documents. Make note of any discrepancies and make note of additional materials, topics, genres, or highlights identified. If anything appears to be missing, processors should contact their supervisor immediately.
+* Identify existing groups of related materials; these groups will likely become the basis for the collection arrangement.
+* Place new, temporary labels (sticky notes) on boxes, indicating to which group of records the contents appear to belong.
+* Using the information from the new box labels, establish a list of potential series and subseries into which the collection may be arranged. Compare the list with what was identified in the processing plan. If the two lists match, processors may notify their supervisor that they are ready to move on to the next step. If the lists do not match, processors should notify their supervisor for further discussion.
